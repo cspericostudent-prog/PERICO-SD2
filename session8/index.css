@@ -1,0 +1,17 @@
+*{
+    margin: 0 !important; 
+    padding: 0 !important; 
+    box-sizing: border-box;
+}
+
+
+.heading { 
+    color: blue;
+}
+
+.heading-size{
+    font-size: 48px;
+}
+.text-purple{
+    color: blueviolet;
+}
