@@ -1,0 +1,17 @@
+body {
+      scroll-behavior: smooth;
+    }
+    .hero {
+      background: linear-gradient(135deg, #0d6efd, #6610f2);
+      color: white;
+      padding: 400px 0;
+    }
+    .project-card img {
+      height: 200px;
+      object-fit: cover;
+    }
+    footer {
+      background: #111;
+      color: #aaa;
+      padding: 20px 0;
+    }
