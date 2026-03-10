@@ -1,0 +1,23 @@
+/* Landing Section */
+.landing-section {
+  background-image: url('./photo/blue-abstract-gradient-wave-wallpaper.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Profile Image */
+.profile-img {
+  width: 300px;
+}
+
+/* Project Images */
+.project-img {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Technology logos */
+.tech-logo {
+  width: 80px;
+}
